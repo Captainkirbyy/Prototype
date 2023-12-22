@@ -1,0 +1,140 @@
+*{
+    
+    font-family: 'Pixelify Sans', sans-serif;
+}
+body {
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0.5%;
+    overflow: hidden;
+    background-color: skyblue;
+    width: 100%;
+    margin-left: 0%;
+    border-bottom: solid;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+.ika {
+    margin-top: 0.2%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.DH {
+    text-align: center;
+    font-size: 3em;
+    border-bottom: solid;
+    margin-bottom: 20px;
+    background-color: rgb(138, 255, 138);
+}
+
+.Departments {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    background-color: rgb(138, 255, 138);
+}
+
+.CCS, .CBA, .COT, .COE, .CON, .COC, .Begin {
+    font-size: 1.5em;
+    text-align: center;
+}
+
+/* Set a common size for all images */
+.CCS2, .COT2, .COE2, .CON2, .COC2, .CBA2 {
+    display: block;
+    margin: auto;
+    max-width: 10%;
+    height: auto;
+    float: right;
+}
+
+.a {
+    border: none;
+}
+.out {
+    margin-top: 1%;
+    margin-left: auto;
+    margin-right: auto; 
+    width: 1600px;
+    align-content: center;
+    background-color: gray;
+
+}
+.CategoryHeader, .offices, .ClassHeader, .DeansHeader {
+    background-color: #f0fcf4;
+}
+.office {
+    text-align: center;
+    font-family: font2;
+    color: black
+}
+.ClassCat{
+    display: block; 
+    font-size: 40px; 
+    text-align: center;
+    font-family: font2;
+    color: black
+}
+.DeansCat {
+    display: block; 
+    font-size: 40px; 
+    text-align: center;
+    color: black;
+}
+.classnames{
+    font-family: font2;
+    color: black;
+    font-size: 30px;
+    cursor: pointer;
+}
+.letters{
+    font-family: font2;
+    color: black;
+    height: 80px;
+    font-size: 50px;
+}
+.category, .deans, .OfficeCat {
+    color: black;
+}
+.offices {
+    max-width: 10%;
+}
+.nav {
+    border-bottom: solid;
+}

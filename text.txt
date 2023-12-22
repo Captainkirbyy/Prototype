@@ -1,0 +1,260 @@
+ <tr>
+                        <th class="CategoryHeader" colspan="3">
+                            <p class="category"><b>Categories</b></p>
+                        </th>
+                    </tr>
+                    <tr> 
+                       <td class="offices">
+                            <h2 class="OfficeCat"><b>Offices</b></h2>
+                            <div class="office">
+                                <br>
+                                <a>CCS: ACAD Mezzanine Floor</a>
+                                <br>
+                                <br>
+                                <a>CBA: CPO 2nd Floor Osorno - Nursing Office 4th Floor</a>
+                                <br>
+                                <br>
+                                <a>COT: Senior High Building</a>
+                                <br>
+                                <br>
+                                <a>COE: Senior High Building</a>
+                                <br>
+                                <br>
+                                <a>CON: Nursing Office 5th Floor</a>
+                                <br>
+                                <br>
+                                <a>COC: Criminology Office 6th Floor</a>
+                                <br>
+                            </div>
+                        </td>
+                        <td class="ClassHeader">
+                            <h1 class="ClassCat"><b>Classes</b></h1>
+                            <img src="">
+                            <table class="Sections" border="">
+                                <tr class="letters">
+                                    <th>CCS</th>
+                                    <th>CBA</th>
+                                    <th>COT</th>
+                                    <th>COE</th>
+                                    <th>CON</th>
+                                    <th>COC</th>
+                                </tr>
+                                <tr class="Classphoto">
+                                        <td><img class="ClassPhoto" src="photos/CCS.png" onclick="openModalById('modal1')"></td>
+                                        <td><img class="ClassPhoto" src="photos/CBA.png" onclick="openModalById('modal2')"></td>
+                                        <td><img class="ClassPhoto" src="photos/Tourism.png" onclick="openModalById('modal3')"></td>
+                                        <td><img class="ClassPhoto" src="photos/Engineering.png" onclick="openModalById('modal4')"></td>
+                                        <td><img class="ClassPhoto" src="photos/Nursing.png" onclick="openModalById('modal5')"></td>
+                                        <td><img class="ClassPhoto" src="photos/Criminology.png" onclick="openModalById('modal6')"></td>
+                                </tr>
+                                <tr class="classnames">
+                                    <td onclick="openModalById('modal1')">College of Computer Studies</td>
+                                    <td onclick="openModalById('modal2')">College of Business and Accountancy</td>
+                                    <td onclick="openModalById('modal3')">College of Tourism</td>
+                                    <td onclick="openModalById('modal4')">College of Engineering</td>
+                                    <td onclick="openModalById('modal5')">College of Nursing</td>
+                                    <td onclick="openModalById('modal6')">College of Criminology</td>
+                                </tr>
+                            </table>
+                        </td>
+                        <td class="DeansHeader">
+                            <h3 class="DeansCat"><b>Deans</b></h3>
+                            <div class="deans">
+                                <br>
+                                <a>CCS: Moma Ortega</a>
+                                <br>
+                                <br>
+                                <a>CBA: Christopher Biore</a>
+                                <br>
+                                <br>
+                                <a>COT: Rene Osorno</a>
+                                <br>
+                                <br>
+                                <a>COE: Unknown</a>
+                                <br>
+                                <br>
+                                <a>CON: Milky Apuhin</a>
+                                <br>
+                                <br>
+                                <a>COC: Deniebell Pableo</a>
+                                <br>
+                                <br><br><br><br><br><br>
+                            </div>
+                        </td>
+                        </td>
+                    </tr>
+                    <tr class="SPP">
+                        <th class="SPSheader" colspan="3"><b>Student Personnel Services</b></th>
+                        
+                    </tr>
+                    <tr class="SPP2">
+                        <td class="Padding">
+                            <h4 class="Office2"><b>Offices</b></h4>
+                            <div class="GroundOffices">
+                                <a>UC CLINIC: GroundFLoor</a>
+                                <br>
+                                <br>
+                                <a>UC CARES: Mezzanine</a>
+                                <br>
+                                <br>
+                                <a>UC SAO: GroundFLoor</a>
+                                <br>
+                                <br>
+                                <a>UC ACCOUNTING: GroundFLoor</a>
+                                <br>
+                                <br>
+                                <a>UC REGISTRAR: GroundFloor</a>
+                                <br>
+                                <br>
+                                <a>UC CAMPUS MINISTRY: GroundFLoor</a>
+                                <br><br>
+                                <a>UC EDP: GroundFLoor</a>
+                                <br><br><br><br><br><br><br>
+                            </div>
+                        </td>
+                        <td class="OGpadding"><h6 class="OG"><b>Organizational Chart</b></h6><img class="spp" src="photos/spp.png"></td>
+                        <td class="Padding2">
+                            <h5 class="Office2"><b>Offices</b></h5>
+                            <div class="GroundOffices">
+                            <a>CCS: PSITS</a>
+                            <br><br>
+                            <a>CBA: </a>
+                            <br><br>
+                            <a>COT: </a>
+                            <br><br>
+                            <a>COE: </a>
+                            <br><br>
+                            <a>CON: </a>
+                            <br><br>
+                            <a>COC: </a>
+                            <br><br>
+                            <a>Canteens: </a>
+                            <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        
+                        <th class="uchymn" colspan="3"><b>School Hymn</b></th>
+                        
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td class="Hymn3">
+                            <p class="Hymn2"><b>University of Cebu Hymn</b></p>
+                            <div class="Hymn">
+                                <a>'Mid these fair Visayan Isles</a>
+                                <br>
+                                <a>'Neath these azure blue skies</a>
+                                <br>
+                                <a>Stands UC our beloved</a>
+                                <br>
+                                <a>Lofty in all her glory</a>
+                                <br>
+                                <br>
+                                <a>Sparks of wisdom, hope and joy</a>
+                                <br>
+                                <a>Always kindling in our hearts</a>
+                                <br>
+                                <a>Thy precious name, thy glorious fame</a>
+                                <br>
+                                <a>Will shine through all eternity</a>
+                                <br>
+                                <br>
+                                <a>Thy name shall ever be our guide</a>
+                                <br>
+                                <a>Thy light our inspiration</a>
+                                <br>
+                                <a>Keep up the light a glowing bright</a>
+                                <br>
+                                <a>To thy portals dear ALMA MATER</a>
+                                <br>
+                                <br>
+                                <a>Hail! Praises be to thee</a>
+                                <br>
+                                <a>Onwards show us the way</a>
+                                <br>
+                                <a>Faithful and true we'll always be</a>
+                                <br>
+                                <a>To thee our ALMA MATER dear.</a>
+                            </div>
+                        </td>
+                        <td></td>
+                    </tr>
+                    <tr class="none">
+                            <td class="one"></td>
+                            <td class="two"></td>
+                            <td class="three">&nbsp;</td>
+                        </div>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+
+    <div class="modal" id="modal1">
+        <div class="modal-header">
+          <div class="modal-title">College Of Computer Studies</div>
+          <button data-close-btn class="close-btn">&times;</button>
+        </div>
+        <div class="modal-body">
+          <div class="modal-logo"><img src="photos/CCS.png" alt=""></div>
+          <div class="modal-description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam nesciunt optio rem delectus et dicta, culpa reprehenderit eius perspiciatis totam, libero sint tenetur magnam ducimus quis aperiam alias eligendi. Adipisci, delectus repudiandae. Nisi perspiciatis architecto rerum error quaerat odio, temporibus ipsa ab non eveniet quam culpa aspernatur recusandae quas soluta!</div>
+        </div>
+      </div>
+
+      <div class="modal" id="modal2">
+        <div class="modal-header">
+          <div class="modal-title">College Of Business Accountancy</div>
+          <button data-close-btn class="close-btn">&times;</button>
+        </div>
+        <div class="modal-body">
+          <div class="modal-logo"><img src="photos/CBA.png" alt=""></div>
+          <div class="modal-description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam nesciunt optio rem delectus et dicta, culpa reprehenderit eius perspiciatis totam, libero sint tenetur magnam ducimus quis aperiam alias eligendi. Adipisci, delectus repudiandae. Nisi perspiciatis architecto rerum error quaerat odio, temporibus ipsa ab non eveniet quam culpa aspernatur recusandae quas soluta!</div>
+        </div>
+      </div>
+
+      <div class="modal" id="modal3">
+        <div class="modal-header">
+          <div class="modal-title">College Of Tourism</div>
+          <button data-close-btn class="close-btn">&times;</button>
+        </div>
+        <div class="modal-body">
+          <div class="modal-logo"><img src="photos/Tourism.png" alt=""></div>
+          <div class="modal-description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam nesciunt optio rem delectus et dicta, culpa reprehenderit eius perspiciatis totam, libero sint tenetur magnam ducimus quis aperiam alias eligendi. Adipisci, delectus repudiandae. Nisi perspiciatis architecto rerum error quaerat odio, temporibus ipsa ab non eveniet quam culpa aspernatur recusandae quas soluta!</div>
+        </div>
+      </div>
+
+      <div class="modal" id="modal4">
+        <div class="modal-header">
+          <div class="modal-title">College Of Engineering</div>
+          <button data-close-btn class="close-btn">&times;</button>
+        </div>
+        <div class="modal-body">
+          <div class="modal-logo"><img src="photos/Engineering.png" alt=""></div>
+          <div class="modal-description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam nesciunt optio rem delectus et dicta, culpa reprehenderit eius perspiciatis totam, libero sint tenetur magnam ducimus quis aperiam alias eligendi. Adipisci, delectus repudiandae. Nisi perspiciatis architecto rerum error quaerat odio, temporibus ipsa ab non eveniet quam culpa aspernatur recusandae quas soluta!</div>
+        </div>
+      </div>
+
+      <div class="modal" id="modal5">
+        <div class="modal-header">
+          <div class="modal-title">College Of Nursing</div>
+          <button data-close-btn class="close-btn">&times;</button>
+        </div>
+        <div class="modal-body">
+          <div class="modal-logo"><img src="photos/Nursing.png" alt=""></div>
+          <div class="modal-description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam nesciunt optio rem delectus et dicta, culpa reprehenderit eius perspiciatis totam, libero sint tenetur magnam ducimus quis aperiam alias eligendi. Adipisci, delectus repudiandae. Nisi perspiciatis architecto rerum error quaerat odio, temporibus ipsa ab non eveniet quam culpa aspernatur recusandae quas soluta!</div>
+        </div>
+      </div>
+
+      <div class="modal" id="modal6">
+        <div class="modal-header">
+          <div class="modal-title">College Of Criminology</div>
+          <button data-close-btn class="close-btn">&times;</button>
+        </div>
+        <div class="modal-body">
+          <div class="modal-logo"><img src="photos/Criminology.png" alt=""></div>
+          <div class="modal-description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam nesciunt optio rem delectus et dicta, culpa reprehenderit eius perspiciatis totam, libero sint tenetur magnam ducimus quis aperiam alias eligendi. Adipisci, delectus repudiandae. Nisi perspiciatis architecto rerum error quaerat odio, temporibus ipsa ab non eveniet quam culpa aspernatur recusandae quas soluta!</div>
+        </div>
+      </div>
+      <div id="overlay"></div>

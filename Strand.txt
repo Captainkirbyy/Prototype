@@ -1,0 +1,47 @@
+ <table border="" class="Departments">
+            <th colspan="4">
+                <P>DEPARTMENTS</P>
+            </th>
+            <tr class="Begin">
+                <th class="a"></th>
+            <th>DEPARTMENTS</th>
+            <th>OFFICES</th>
+            <th>DEANS</th>
+            </tr>
+        <tr class="CCS">
+            <th class="a">CCS<img class="CCS2" src="photsD/CCS.png"></th>
+            <td>College of Computer Studies</td>
+            <td>CCS: ACAD Mezzanine Floor</td>
+            <td>CCS: Moma Ortega</td>
+        </tr>
+        <tr class="CBA">
+            <th class="a">CBA<img class="CBA2" src="photsD/CBA.png"></th>
+            <td>College Of Business Accountancy</td>
+            <td>CBA: CPO 2nd Floor Osorno - Nursing Office 4th Floor</td>
+            <td>CBA: Christopher Biore</td>
+        </tr>
+        <tr class="COT">
+            <th class="a">COT<img class="COT2" src="photsD/COT.png"></th>
+            <td>College Of Tourism</td>
+            <td>COT: Senior High Building</td>
+            <td>COT: Rene Osorno</td>
+        </tr>
+        <tr class="COE">
+            <th class="a">COE<img class="COE2" src="photsD/COE.png"></th>
+            <td>College Of Engineering</td>
+            <td>COE: Senior High Building</td>
+            <td>COE: Unknown</td>
+        </tr>
+        <tr class="CON">
+            <th class="a">CON<img class="CON2" src="photsD/SAD.png"></th>
+            <td>College Of Nursing</td>
+            <td>CON: Nursing Office 5th Floor</td>
+            <td>CON: Milky Apuhin</td>
+        </tr>
+        <tr class="COC">
+            <th class="a">COC<img class="COC2" src="photsD/COC.png"></th>
+            <td>College Of Criminology</td>
+            <td>CON: Nursing Office 5th Floor</td>
+            <td>COC: Deniebell Pableo</td>
+        </tr>
+        </table>

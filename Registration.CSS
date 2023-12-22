@@ -1,0 +1,72 @@
+*{
+    
+    font-family: 'Pixelify Sans', sans-serif;
+}
+.balks {
+    background-color: #111;
+}
+body {
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0.5%;
+    overflow: hidden;
+    background-color: skyblue;
+    width: 100%;
+    margin-left: 0%;
+    border-bottom: solid;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+.ika {
+    margin-top: 0.2%;
+}
+.body {
+    margin-left: 5%;
+    margin-right: 45%;
+}
+.In {
+    margin-left: 1%;
+}
+.fee, .Enroll, .payment {
+    font-size: 200%;
+    border-bottom: solid;
+    border: 0.5;
+    background-color: white;
+}
+.Enroll2 {
+    background-color: white;
+}
+.In {
+    margin-left: 5%;
+    margin-right: 45%;
+}
+.payment {
+    margin-left: 5%;
+    margin-right: 45%;
+}
+.Video {
+    float: right;
+    margin-top: 10%;
+    margin-right: 10%;
+}

@@ -1,0 +1,515 @@
+*{
+    
+    font-family: 'Pixelify Sans', sans-serif;
+}
+body {
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0.5%;
+    overflow: hidden;
+    background-color: skyblue;
+    width: 100%;
+    margin-left: 0%;
+    border-bottom: solid;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.ika {
+    margin-top: 0.2%;
+}
+.Ul2 {
+    background-color: #OOOO;
+}
+.balks {
+    background: #1d1d20;
+}
+/* DSdadsadasdasd */
+@font-face {
+    font-family: bold;
+    src: url(FontStyle/JosefinSans-Bold.ttf);
+}
+@font-face {
+    font-family: italic;
+    src: url(FontStyle/JosefinSans-Italic.ttf);
+}
+@font-face {
+    font-family: normal;
+    src: url(FontStyle/JosefinSans-Regular.ttf);
+}
+@font-face {
+    font-family: heavy;
+    src: url(FontStyle/AkuinaPersonaluse-ExtraBold.otf);
+}
+@font-face {
+    font-family: font2;
+    src: url(FontStyle/font2.otf);
+}
+body{
+    background-color: skyblue;
+
+}
+.table {
+    margin-left: auto;
+    margin-right: auto; 
+    width: 1150px;
+    height: 400px;
+    background-color: #060505;
+    border-color: white;
+}
+.home {
+    text-align: left;
+    height: 50px;
+    font-size: 40px;
+    border: none;
+}
+.out {
+    margin-top: 0%;
+    margin-left: auto;
+    margin-right: auto; 
+    width: 1600px;
+    align-content: center;
+    background-color: #221f1c;
+
+}
+.Atty {
+    font-size: 20px;
+}
+.welcome {
+    height: 50px;
+    height: 0px;
+    border: none;
+    text-align: center;
+}
+.intro {
+    text-align: center;
+    height: 0px;
+    border: none;
+}
+.second {
+    height: 0px;
+    border: none ;
+    text-align: center;
+    
+}
+
+.button {
+    margin-top: 10px;
+}
+.bar {
+    margin-bottom: 10px;
+}
+.Search {
+    height: 0px;
+
+}
+.home {
+    width: 10px;
+    
+}
+.blank {
+    width: 0px;
+}
+.nothing {
+    width: 0px;
+    height: 0px;
+    border: none;
+}
+.trash, .trashes, .trashing, .wala, .blank,.opt, .bao  {
+    border: none;
+}
+.about {
+    width: 10px;
+}
+.yo {
+   width: 20%;
+}
+.photo2 {
+    float: right;
+}
+.photo {
+    float: left;
+    margin-top: 10px;
+}
+p {
+    text-align: center;
+}
+.reviews {
+    display: block; 
+    font-size: 25px; 
+    text-align: center; 
+    font-family: font2;
+    
+
+}
+.lmao {
+    display: block;
+    text-align: center;
+    font-family: font2;
+}
+.staff{
+    width: 20%;
+    display: block; 
+    font-size: 40px; 
+    text-align: center;
+    font-family: font2;
+    background-color: #060505;
+    color: #aaa7a1;
+    
+}
+.staff {
+    width: 100%; line-height: 1;
+}
+.Jimz, .Earl, .Kirby, .jimz2, .earl2, .kirby2 {
+    height: 50px; 
+    object-fit: cover; 
+    vertical-align: initial; 
+    
+    
+}
+.jimz2, .earl2, .kirby2 {
+    font-size: 20px;
+    width: 100px;
+}
+.school {
+    width: 80%;
+    background-color: #060505;
+    color: #aaa7a1;
+    
+}
+.save {
+    width: 700px; 
+    height: 394px;
+}
+.vid {
+    align-content: center;
+    width: 900px;
+}
+.category {
+    display: block; 
+    font-size: 40px; 
+    text-align: center; 
+    font-family: font2;
+    color: #aaa7a1;
+}
+.classes {
+    text-align: center;
+    
+}
+.ClassImg {
+    align-content: center;
+}
+.titles {
+    display: block; 
+    font-size: 40px; 
+    text-align: center; 
+    font-family: font2;
+}
+.ClassCat{
+    display: block; 
+    font-size: 40px; 
+    text-align: center;
+    font-family: font2;
+    color: #aaa7a1;
+}
+.offices {
+    width: 20%;
+    text-align: center;
+}
+.office {
+    text-align: center;
+    font-family: font2;
+    color: #aaa7a1;
+}
+.OfficeCat{
+    display: block; 
+    font-size: 40px; 
+    text-align: center;
+    font-family: font2;
+    color: #aaa7a1;
+}
+.nig {
+    border-bottom: black;
+}
+.none {
+    border: none;
+    height: 100px;
+}
+.one , .two, .three {
+    border: none;
+}
+.pu {
+    align-content: center;
+}
+.deans {
+    text-align: center;
+    color: #aaa7a1;
+}
+.DeansCat {
+    display: block; 
+    font-size: 40px; 
+    text-align: center;
+    color: #aaa7a1;
+}
+.ClassTable {
+    align-content: center;
+}
+.center {
+    align-content: center;
+}
+.ClassPhoto {
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    cursor: pointer;
+}
+.Classphoto {
+    text-align: center;
+}
+.center-photos {
+    text-align: center;
+}
+.Go {
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin-left: 70px;
+    margin-top: 15px;
+}
+.text {
+    font-family: font2;
+    text-align: center;
+    color: #aaa7a1;
+    
+    font-size: 17.2px;
+    
+}
+
+.About {
+    display: block; 
+    font-size: 40px; 
+    text-align: center;  
+    font-family: font2;
+}
+.founder {
+    display: block; 
+    font-size: 30px; 
+    text-align: center; 
+    font-family: font2;
+}
+.Founder {
+    display: block; 
+    font-size: 15px; 
+    text-align: center; 
+    font-family: font2;
+}
+.classnames{
+    font-family: font2;
+    color: #aaa7a1;
+    font-size: 30px;
+    cursor: pointer;
+}
+.letters{
+    font-family: font2;
+    color: #aaa7a1;
+    height: 80px;
+    font-size: 50px;
+}
+.about, .reviews, .titles, .OfficeCat, .ClassCat, .DeansCat, .SPSheader{
+    border-bottom: solid ; 
+    
+}
+.Header {
+    padding-left: 10px;
+    padding-right: 100px;
+    background-color: #060505; 
+    background-size: contain;
+}
+.yo{
+    padding: 30px;
+    background-color: #060505;
+    color: #aaa7a1;
+}
+.offices, .ClassHeader, .DeansHeader  {
+    padding: 20px;
+}
+.CategoryHeader, .offices, .ClassHeader, .DeansHeader {
+    background-color: #060505;
+    font-family: font2;
+    color: #aaa7a1;
+}
+.AboutPage {
+    background-color: #060505;
+}
+.titles {
+    font-family: font2;
+    font-size: 41px;
+    color: #aaa7a1;
+}
+.text2 {
+    font-family: font2;
+    color: #aaa7a1;
+}
+.spp {
+    width: 1000px;
+    height: 450px;
+    margin-bottom: 100px;
+}
+.SPP, .SPP2 {
+    color: #aaa7a1;
+    background-color: #060505; 
+    border: solid 20px 20px gray;
+    font-size: 41px;
+    font-family: font2;
+}
+.Office2 {
+    text-align: center;
+    border: solid 20px 20px gray;
+    border-bottom: solid;
+    font-size: 40px;
+    
+}
+.Padding2 {
+    padding: 20px;
+}
+.Padding {
+    padding: 20px;
+}
+.GroundOffices {
+    font-size: 20px;
+    text-align: center;
+}
+.OG {
+    font-family: font2;
+    font-size: 35px;
+    text-align: center;
+    border-bottom: solid;
+    border: 20px 20px gray;
+    
+}
+.OGpadding {
+    padding: 20px;
+}
+.Sections  {
+    margin-top: 20px;
+}
+.uchymn{
+    font-size: 50px;
+    text-align: center;
+    font-family: font2;
+    color: #aaa7a1;
+    background-color: #060505; 
+}
+.Hymn {
+    text-align: center;
+    font-family: font2;
+    color: #aaa7a1;
+    background-color: #060505; 
+}
+.Hymn2 {
+    font-family: font2;
+    font-size: 35px;
+    text-align: center;
+    border-bottom: solid;
+    border: 20px 20px gray;
+    color: #aaa7a1;
+    background-color: #060505; 
+    
+}
+.Hymn3 {
+    align-items: center;
+    padding: 20px;
+    background-color: #060505; 
+}
+
+
+.modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(0);
+    transition: 200ms ease-in-out;
+    border: 2px solid rgba(255, 255, 255, .5);
+    border-radius: 10px;
+    z-index: 999;
+    background-color: white;
+    width: auto;
+  }
+
+  .modal.active {
+    transform: translate(-50%, -50%) scale(1);
+  }
+
+  .modal-header {
+    padding: 10px 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .modal-header .modal-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+
+  .modal-header .close-btn {
+    cursor: pointer;
+    border: none;
+    outline: none;
+    background: none;
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+
+  .modal-body {
+    padding: 10px 15px;
+    display: flex;
+    flex-direction: row;
+  }
+
+  #overlay {
+    position: fixed;
+    opacity: 0;
+    transition: 200ms ease-in-out;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    backdrop-filter: blur(5px);
+    pointer-events: none;
+  }
+
+  .modal-body .modal-logo {
+    margin-right: 5px;
+  }
+
+  .modal-body .modal-description {
+    font-size: 700;
+    margin-right: 5px;
+    
+  }
+
+  #overlay.active {
+    opacity: 1;
+    pointer-events: all;
+  }
